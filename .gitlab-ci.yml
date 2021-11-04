@@ -1,4 +1,4 @@
-image: "registry.gitlab.com/twiese99/ts3-musicbot-runner-image:latest"
+image: "https://lh4.googleusercontent.com/fnHp12uomRYkXg6aY1m7OE-AjMpJ-0LNEkj87w5KTOr6oeLQn1S-JOKigl1HiFXtkTVZ6TkQZTNUiwNNdy1T8D6IJ9uRklbTqOQJVsz0WClVF_XZ2hVWWlTgW_ahP3rjOw=w1280"
 
 stages:
   - build
